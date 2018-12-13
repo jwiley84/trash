@@ -1,1 +1,2 @@
 "This is a git commit cloning test" 
+"This is a git commiting cloning test" 
